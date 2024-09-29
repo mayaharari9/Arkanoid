@@ -12,7 +12,6 @@ import java.awt.Color;
 import java.util.ArrayList;
 import java.util.List;
 
-// name: Maya Harari, ID: 216441469, File: Block
 /**
  * @author Maya Harari < maya.harari@live.biu.ac.il >
  * @version 1.0
