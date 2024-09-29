@@ -1,4 +1,3 @@
-// name: Maya Harari, ID: 216441469, File: LevelInformation
 package LevelInformations;
 
 import Objects.Velocity;
