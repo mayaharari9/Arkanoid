@@ -1,4 +1,3 @@
-// name: Maya Harari, ID: 216441469, File: ScoreTrackingListener
 package Score;
 
 import Hitting.HitListener;
