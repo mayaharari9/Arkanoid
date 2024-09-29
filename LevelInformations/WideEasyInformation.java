@@ -1,4 +1,3 @@
-// name: Maya Harari, ID: 216441469, File: WideEasyInformation
 package LevelInformations;
 import Backgrounds.WildEasyBackground;
 import Objects.Point;
