@@ -1,5 +1,4 @@
 package Objects;
-// name: Maya Harari, ID: 216441469, File: Velocity
 
 /**
  * @author Maya Harari < maya.harari@live.biu.ac.il >
