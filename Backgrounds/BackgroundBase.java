@@ -1,5 +1,5 @@
 package Backgrounds;
-// name: Maya Harari, ID: 216441469, File: BackgroundRectangle
+
 /**
  * @author Maya Harari < maya.harari@live.biu.ac.il >
  * @version 1.0
