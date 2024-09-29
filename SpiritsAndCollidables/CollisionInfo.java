@@ -1,4 +1,3 @@
-// name: Maya Harari, ID: 216441469, File: CollisionInfo
 package SpiritsAndCollidables;
 
 import Objects.Line;
