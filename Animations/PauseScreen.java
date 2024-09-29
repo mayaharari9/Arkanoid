@@ -1,4 +1,3 @@
-// name: Maya Harari, ID: 216441469, File: PauseScreen
 package Animations;
 
 import biuoop.DrawSurface;
