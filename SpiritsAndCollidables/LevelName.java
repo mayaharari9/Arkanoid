@@ -1,5 +1,3 @@
-// name: Maya Harari, ID: 216441469, File: levelName
-
 package SpiritsAndCollidables;
 
 import Animations.GameLevel;
