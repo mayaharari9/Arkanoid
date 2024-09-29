@@ -1,4 +1,3 @@
-// name: Maya Harari, ID: 216441469, File: Green3Background
 package Backgrounds;
 
 import SpiritsAndCollidables.Sprite;
