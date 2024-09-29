@@ -1,4 +1,3 @@
-// name: Maya Harari, ID: 216441469, File: Point
 package Objects;
 /**
  * @author Maya Harari < maya.harari@live.biu.ac.il >
