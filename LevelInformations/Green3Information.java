@@ -1,4 +1,3 @@
-// name: Maya Harari, ID: 216441469, File: Green3Information
 package LevelInformations;
 import Backgrounds.Green3Background;
 import Objects.Point;
