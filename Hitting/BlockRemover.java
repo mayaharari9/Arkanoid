@@ -1,5 +1,3 @@
-// name: Maya Harari, ID: 216441469, File: BlockRemover
-
 package Hitting;
 
 import Animations.GameLevel;
