@@ -1,4 +1,3 @@
-// name: Maya Harari, ID: 216441469, File: Line
 package Objects;
 
 import java.util.List;
