@@ -1,5 +1,5 @@
 # Arkanoid
-Multiple levels Arkanoid game.
+Multiple levels Arkanoid game, written in Java.
 
 ## Intalling
 
