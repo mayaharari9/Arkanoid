@@ -1,5 +1,3 @@
-// name: Maya Harari, ID: 216441469, File: Ass6Game
-
 import Animations.AnimationRunner;
 
 import LevelInformations.DirectHitInformation;
