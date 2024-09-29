@@ -1,6 +1,3 @@
-// name: Maya Harari, ID: 216441469, File: GameFlow
-
-
 import Animations.AnimationRunner;
 import Animations.EndAnimation;
 import Animations.GameLevel;
