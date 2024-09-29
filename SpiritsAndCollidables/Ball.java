@@ -8,7 +8,6 @@ import Objects.Rectangle;
 import Objects.Velocity;
 import biuoop.GUI;
 import biuoop.DrawSurface;
-// name: Maya Harari, ID: 216441469, File: Ball
 
 /**
  * @author Maya Harari < maya.harari@live.biu.ac.il >
