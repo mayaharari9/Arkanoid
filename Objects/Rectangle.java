@@ -3,7 +3,6 @@ package Objects;
 import SpiritsAndCollidables.Ball;
 
 import java.util.ArrayList;
-// name: Maya Harari, ID: 216441469, File: Rectangle
 /**
  * @author Maya Harari < maya.harari@live.biu.ac.il >
  * @version 1.0
