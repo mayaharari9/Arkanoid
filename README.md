@@ -1,7 +1,7 @@
 # Arkanoid
 Multiple levels Arkanoid game, written in Java.
 
-## Intalling
+## Installing
 
 Clone the repeository:
 ```bash
