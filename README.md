@@ -1,5 +1,6 @@
 # Arkanoid
 Multiple levels Arkanoid game, written in Java.
+
 Arkanoid is a classic brick-breaking game. The player controls a paddle at the bottom of the screen to bounce a ball and break bricks arranged at the top. The goal is to clear all the bricks while preventing the ball from falling off the bottom edge of the screen.
 
 ## Installing
